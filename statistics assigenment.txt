@@ -1,0 +1,103 @@
+
+Answer 1 :-                     
+ˉ
+𝑥 = 520
+σ = 100
+n= 25
+Confidence level = 80%
+ME=z(n
+σ)=1.28(25
+100)=1.28(5
+100)=1.28×20=25.6
+CI=520±25.6
+So, the 80% confidence
+interval about the mean is:
+(494.4,545.6)
+
+
+ Answer 2:-
+^
+p = 
+170/
+250
+=0.60
+p0 = 0.60
+n= 250
+calculate the satatity
+z= 
+250
+0.60×(1−0.60)
+​
+ 
+​
+ 
+0.68−0.60
+
+𝑧
+=
+0.08
+0.60
+×
+0.40
+250
+z= 
+250
+0.60×0.40 
+0.08
+𝑧
+=
+0.08
+0.24
+250
+z= 
+250
+0.24
+0.08
+𝑧
+=
+0.08
+0.00096
+z= 
+0.00096
+0.08
+𝑧
+=
+0.08
+0.031
+z= 
+0.031
+0.08
+𝑧
+≈
+2.58
+z≈2.58
+​ ABC is greater than 60%.
+
+Answer 3:-
+Rank= 100 99×(N+1)
+    (N=20)
+Rank=100 99×(20+1)
+   =20.79
+The 20th data point is 12, 
+and since there is no 21st data point, 
+the 99th percentile is 
+           =12
+Answer 4:-
+if the distribution of data is skewed to the left,
+the mean is less than the median, which is often less than the mode.
+If the distribution of data is skewed to the right,
+the mode is often less than the median, 
+which is less than the mean. ​
+ 
+​
+
+
+
+
+
+
+
+
+
+
+

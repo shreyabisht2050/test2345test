@@ -1,0 +1,31 @@
+
+
+Answer 1:  Business intelligence (BI) is a set of strategies and technologies for analyzing business information and transforming it into actionable insights that inform strategic and tactical business decisions.
+
+Answer 2:- Power BI is also a part of Microsoft's Power Platform, which includes Power Apps, Power Pages, Power Automate, and Power Virtual Agents. Created as “low-code tools,” these applications help businesses analyze and visualize data, design business solutions, automate processes, and create no-code chatbots.
+
+Answer 3 :-Descriptive analytics is a type of data analytics that looks at past data to give an account of what has happened. Results are typically presented in reports, dashboards, bar charts and other visualizations that are easily understood.
+
+Answer 4:-  Predictive analytics is the process of using data to forecast future outcomes. The process uses data analysis, machine learning, artificial intelligence, and statistical models to find patterns that might predict future behavior.
+
+Answer 5 :-Prescriptive analytics is a statistical method that focuses on finding the ideal way forward or action necessary for a particular scenario, based on data. Prescriptive analytics uses both descriptive and predictive analytics but the focus here remains on actionable insights rather than data monitoring.
+
+Answer 6:-
+ .Trends
+Customer Demographics and Behavior
+. Profiles
+Inventory Management:
+
+.Optimization
+Financial Health Monitoring:
+
+.KPIs
+Marketing Campaign Effectiveness:
+
+.ROI
+
+
+
+
+
+
