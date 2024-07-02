@@ -1,0 +1,19 @@
+answer 1:- DAX is a collection of functions, operators, and constants that can be used in a formula, or expression, to calculate and return one or more values. Stated more simply, DAX helps you create new information from data already in your model.
+
+answer 2:-Reports are detailed, multi-page documents that present data in various formats, including tables, charts, and graphs. They are designed for in-depth analysis and exploration. Dashboards, on the other hand, are single-page, real-time displays that aggregate key metrics and insights from multiple reports and datasets.
+
+answer 3:-To start creating reports in power bi, you can either select the relevant fields from your data or pick a visualization. The visualization is displayed on the blank canvas. To add a field to your report, simply click the relevant field. Power BI will automatically add the field to the right area in your chart
+
+answer 4:- In the left navigation pane, click Get Data.
+In the Services box, click Get.
+From the menu of online services, select Google Analytics, and then click Connect.
+Enter the Google Analytics account, property, and view that you want to connect to.
+
+answer 4:-If you want to import Analytics data manually through Power BI, follow these instructions.
+In Power BI, click Get Data in the lower left screen.
+Under Import or Connect to Data > Files, click Get.
+Click Local File.
+Choose which file to upload and click Open.
+Click Upload under Upload your Excel file to Power BI.
+
+answer5:-There are two modes for interacting with reports in the Power BI service: Editing view and Reading view. If you're a business user, then you're more likely to use Reading view to consume reports created by others. Editing view is used by report designers, who create the reports and share them with you.

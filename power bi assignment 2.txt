@@ -1,0 +1,30 @@
+Answer 1:- Power BI's Natural Language Query (NLQ) feature allows you to ask questions about your data in plain English and get answers in the form of visualizations, tables, and other insights. This makes it easier for anyone to explore and understand their data, regardless of their technical expertise.
+
+Answer 2:- The Back-End cluster determines how authenticated clients interact with the Power BI service. The Back-End cluster manages visualizations, user dashboards, semantic models, reports, data storage, data connections, data refresh, and other aspects of interacting with the Power BI service
+
+answer 3:- Excel is a spreadsheet programme that may be used to organise, transform, and calculate data. Power BI, on the other hand, was designed as a business intelligence and data visualisation tool.
+The quantity of data that Excel can handle is limited. Power BI, on the other hand, can manage significantly larger data sets.
+Excel’s connecting capacity is limited, whereas Power BI can link to a vast number of data sources. Power BI may also be used via mobile devices, unlike Excel.
+Power BI is faster than Excel at processing data.
+Dashboards created with Power BI are more aesthetically appealing, dynamic, and configurable than those created with Excel.
+In terms of comparing tables, reports, or data files, Power BI is a more capable tool than Excel.
+Excel is more user-friendly and intuitive than Power BI.
+
+Answer 4:- 
+Microsoft Azure SQL Database
+
+Access database
+
+Microsoft Analysis Services
+
+Oracle Database
+
+IBM Netezza
+
+MySQL database
+
+PostgreSQL database
+
+Sybase database
+
+Teradata Database 
